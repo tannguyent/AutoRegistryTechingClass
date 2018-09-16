@@ -1,1 +1,1 @@
-# autoregistry-vue-netcore-ddd
+# read me 
