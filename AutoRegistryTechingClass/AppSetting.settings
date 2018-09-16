@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoRegistryTechingClass" GeneratedClassName="AppSetting">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReceivedEmails" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tinhanh89@gmail.com,ngocbmt94@gmail.com,phanthituuyenkt@gmail.com</Value>
+    </Setting>
+    <Setting Name="SenderEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tannguyent140489@gmail.com</Value>
+    </Setting>
+    <Setting Name="PassSenderEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@tinhanh89</Value>
+    </Setting>
+    <Setting Name="SenderUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tannguyent140489@gmail.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
