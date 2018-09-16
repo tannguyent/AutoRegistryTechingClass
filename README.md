@@ -1,0 +1,1 @@
+# autoregistry-vue-netcore-ddd
